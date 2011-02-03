@@ -1,0 +1,11 @@
+# Bullet dependencies
+
+# standard set of extensions
+darcs /dependencies/BulletDep        http://openengine.dk/code/dependencies/BulletDep
+
+darcs-dev /dependencies/BulletDep    fh.daimi.au.dk:/users/cgd/code/dependencies/BulletDep
+
+#data files
+win32 /dependencies/BulletDep http://openengine.dk/data/dependencies/bullet-2.77.tar.gz
+linux /dependencies/BulletDep http://openengine.dk/data/dependencies/bullet-2.77.tar.gz
+darwin /dependencies/BulletDep http://openengine.dk/data/dependencies/bullet-2.77.tar.gz

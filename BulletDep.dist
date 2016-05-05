@@ -1,9 +1,9 @@
 # Bullet dependencies
 
 # standard set of extensions
-darcs /dependencies/BulletDep        http://openengine.dk/code/dependencies/BulletDep
+git /dependencies/BulletDep        https://github.com/OpenEngineDK/dependencies-BulletDep.git
 
-darcs-dev /dependencies/BulletDep    fh.daimi.au.dk:/users/cgd/code/dependencies/BulletDep
+git-dev /dependencies/BulletDep    git@github.com:OpenEngineDK/dependencies-BulletDep.git
 
 #data files
 win32 /dependencies/BulletDep http://openengine.dk/data/dependencies/bullet-2.77.tar.gz
